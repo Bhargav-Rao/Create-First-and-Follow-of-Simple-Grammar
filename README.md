@@ -10,6 +10,7 @@ Usage:
 Sample Input
 
 S->A
+
 A->a
 
 Works for Python3 and above. Made for Linux Only.
