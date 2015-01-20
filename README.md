@@ -7,4 +7,9 @@ Usage:
 1. Download both the files
 2. Execute text.py (In python3)
 
-Works for Python3 and above
+Sample Input
+
+S->A
+A->a
+
+Works for Python3 and above. Made for Linux Only.
