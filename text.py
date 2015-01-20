@@ -46,9 +46,8 @@ def getdata():
 	file.write(t.get('1.0','end'))
 	#print(t.get('1.0','end'))
 	file.close()
-	#os.system("python3 test.py")
-	import test
-
+	os.system("python3 test.py")
+	
 
 	global c
 	s = ""
